@@ -38,10 +38,10 @@ const Messagerie = () => {
                     </div>
                     <div className='mt-6'>
                         <ul className='space-y-0 '>
-                        <li className='p-4 border-b border-t border-gray-400 font-bold text-white  hover:text-sky-700'> <a href='#'> user</a></li>
-                        <li className='p-4 border-b border-gray-400 font-bold text-white  hover:text-sky-700'><a href='#'> user</a></li>
-                        <li className='p-4 border-b border-gray-400 font-bold text-white  hover:text-sky-700'><a href='#'> user</a></li>
-                        <li className='p-4 border-b border-gray-400 font-bold text-white  hover:text-sky-700'><a href='#'> user</a></li>
+                        <li className='p-4 border-b border-t border-gray-400 font-bold text-white  hover:text-sky-700'> <a href='#'> <img src='' alt=''></img>user</a></li>
+                        <li className='p-4 border-b border-gray-400 font-bold text-white  hover:text-sky-700'><a href='#'> <img src='' alt=''></img>user</a></li>
+                        <li className='p-4 border-b border-gray-400 font-bold text-white  hover:text-sky-700'><a href='#'><img src='' alt=''></img> user</a></li>
+                        <li className='p-4 border-b border-gray-400 font-bold text-white  hover:text-sky-700'><a href='#'><img src='' alt=''></img> user</a></li>
                         
                         </ul>
                     </div>
